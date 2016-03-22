@@ -1,0 +1,28 @@
+name: MediGreens
+favicon: null
+layout_spectrum: 0.772503592306748
+typography_spectrum: 0.09842264861799777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7105150555726141
+  lightness: 0.5269562834873796
+  saturation: 0.0502649222034961
+  rhythmicContrast: 0.3769708063919097
+purpose: []
